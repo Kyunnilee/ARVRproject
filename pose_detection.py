@@ -1,7 +1,7 @@
 import cv2
 import mediapipe as mp
 
-# Load MediaPipe pose model
+# Load MediaPipe pose model hi
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
 
